@@ -6,8 +6,8 @@ Este estudo foca em avaliar, por experimentação, os dados gerados com a utiliz
 #### vetor aleatório
 ![Tempo de execução dos algoritmos - vetor aleatório](https://github.com/kaioribeiro97/Projeto-01--SQRT-SORT/blob/main/SQRT_sort/Gráficos/Tempo%20de%20execução%20-%20Ordem%20aleatório.png)
 
-#### vetor aleatório
+#### vetor crescente
 ![Tempo de execução dos algoritmos - vetor crescente](https://github.com/kaioribeiro97/Projeto-01--SQRT-SORT/blob/main/SQRT_sort/Gráficos/Tempo%20de%20execução%20-%20Ordem%20crescente.png)
 
-#### vetor aleatório
+#### vetor decrescente
 ![Tempo de execução dos algoritmos - vetor decrescente](https://github.com/kaioribeiro97/Projeto-01--SQRT-SORT/blob/main/SQRT_sort/Gráficos/Tempo%20de%20execução%20-%20Ordem%20decrescente.png)
