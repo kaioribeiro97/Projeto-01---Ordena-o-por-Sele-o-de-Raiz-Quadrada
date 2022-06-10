@@ -10,4 +10,4 @@ Este estudo foca em avaliar, por experimentação, os dados gerados com a utiliz
 ![Tempo de execução dos algoritmos - vetor crescente](https://github.com/kaioribeiro97/Projeto-01--SQRT-SORT/blob/main/SQRT_sort/Gráficos/Tempo%20de%20execução%20-%20Ordem%20crescente.png)
 
 #### vetor aleatório
-![Tempo de execução dos algoritmos - vetor decrescente]([https://github.com/kaioribeiro97/Projeto-01--SQRT-SORT/blob/main/SQRT_sort/Gráficos/Tempo%20de%20execução%20-%20Ordem%20crescente.png](https://github.com/kaioribeiro97/Projeto-01--SQRT-SORT/blob/main/SQRT_sort/Gráficos/Tempo%20de%20execução%20-%20Ordem%20decrescente.png))
+![Tempo de execução dos algoritmos - vetor decrescente](https://github.com/kaioribeiro97/Projeto-01--SQRT-SORT/blob/main/SQRT_sort/Gráficos/Tempo%20de%20execução%20-%20Ordem%20decrescente.png)
